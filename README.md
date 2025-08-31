@@ -20,9 +20,9 @@
 
 <div align="left">
   <a href="https://t.me/WissendCode" target="_blank">
-    <img src="https://logo-teka.com/wp-content/uploads/2025/06/telegram-logo.svg" height="40" alt="telegram logo" />
+    <img src="https://logo-teka.com/wp-content/uploads/2025/06/telegram-logo.svg" height="60" alt="telegram logo" />
   </a>
-  <img width="99" />
+  <img width="12" />
 </div>
 
 ###
