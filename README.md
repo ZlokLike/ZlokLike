@@ -43,7 +43,7 @@
   </a>
   <img width="20" />
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="filter: invert(1);" />
   </a>
 </div>
 
