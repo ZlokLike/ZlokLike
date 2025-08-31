@@ -39,7 +39,7 @@
 
 <div align="left">
   <a href="https://t.me/WissendCode" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-plain.svg" height="40" alt="Telegram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40" alt="Telegram" />
   </a>
   <img width="20" />
   <a href="https://github.com/yourusername" target="_blank">
