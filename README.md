@@ -39,12 +39,11 @@
 
 <div align="left">
   <a href="https://t.me/WissendCode" target="_blank">
-    <img src="https://logo-teka.com/wp-content/uploads/2025/06/telegram-logo.svg" height="50" alt="Telegram" style="border-radius: 4px;" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-plain.svg" height="40" alt="Telegram" />
   </a>
   <img width="20" />
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" height="50" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   </a>
 </div>
 
