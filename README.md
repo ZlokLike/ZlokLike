@@ -41,9 +41,6 @@
   <a href="https://t.me/WissendCode" target="_blank">
     <img src="https://logo-teka.com/wp-content/uploads/2025/06/telegram-logo.svg" height="50" alt="Telegram" style="border-radius: 4px;" />
   </a>
-  <img width="20" />
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" height="50" alt="Gmail" />
   </a>
   <img width="20" />
   <a href="https://github.com/yourusername" target="_blank">
