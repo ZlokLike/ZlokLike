@@ -20,7 +20,7 @@
 
 <div align="left">
   <a href="https://t.me/WissendCode" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="40" alt="telegram logo" />
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" height="40" alt="telegram logo" />
   </a>
   <img width="12" />
 </div>
