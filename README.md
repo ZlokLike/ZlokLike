@@ -19,8 +19,8 @@
 ###
 
 <div align="left">
-  <a href="https://t.me/WissendCode">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40" alt="telegram logo" />
+  <a href="https://t.me/WissendCode" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="40" alt="telegram logo" />
   </a>
   <img width="12" />
 </div>
