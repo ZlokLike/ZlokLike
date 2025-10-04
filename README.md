@@ -23,28 +23,6 @@
 
 ###
 
-<h2 align="left">🎯 Стек разработки</h2>
-
-###
-
-<div align="left">
-  <h3>🔧 Backend</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-FastAPI-009688?style=flat-square&logo=python&logoColor=white" alt="Python FastAPI" />
-    <img src="https://img.shields.io/badge/Node.js-Express-000000?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js Express" />
-    <img src="https://img.shields.io/badge/Rust-Actix-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust Actix" />
-  </p>
-  
-  <h3>🎨 Frontend</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 18" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </p>
-</div>
-
-###
-
 <h2 align="left">📊 Что разрабатываю</h2>
 
 ###
